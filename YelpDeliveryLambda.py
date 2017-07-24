@@ -1,6 +1,6 @@
 import requests
 
-client_id = '5_i7R5wN5m042GaXgUTxPg'
+client_id = 'FOR MY EYES ONLY'
 client_secret = 'FOR MY EYES ONLY'
 
 token_post_data = {'grant_type': 'client_credentials',
